@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Potato",
+      "id": "1",
+      "name": "Sweet",
+      "description": "A lumpy orange friend who is yummy when fried."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Potato",
+      "id": "2",
+      "name": "Yam",
+      "description": "Often confused with the sweet potato. Who knows why?"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Potato",
+      "id": "3",
+      "name": "Russett",
+      "description": "Brown outside and white within. Bland friend of Idahoans."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Potato",
+      "id": "4",
+      "name": "Golden",
+      "description": "Yellowish smooth friend, especially in the mosh pit."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Potato",
+      "id": "5",
+      "name": "Red",
+      "description": "Awesome friend who really shines with butter and parsley."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Potato",
+      "id": "6",
+      "name": "Blue",
+      "description": "Who the hell needs a blue friend?"
+    }
+  ],
+    "users": [
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "7",
+      "name": "Robin the Red",
+      "description": "My sensational friend",
+      "itemId": "1"
+   },
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "id": "8",
+      "name": "Mara the Bombdizzle",
+      "description": "My lovely hija",
+      "itemId": "2"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "Susan's API",
+    "creator": "STownzen",
+    "about": "As defined by GitHub, a potato list",
+    "url": "https://www.susantownzen.info"
+  }
+}
